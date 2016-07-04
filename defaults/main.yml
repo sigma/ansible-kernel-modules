@@ -1,0 +1,4 @@
+---
+blacklisted_modules: []
+disabled_modules: []
+modules_file: /etc/modprobe.d/ansible-modules.conf
