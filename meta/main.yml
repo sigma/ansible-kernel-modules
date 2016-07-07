@@ -3,9 +3,9 @@ galaxy_info:
   license: BSD
   min_ansible_version: 1.2
   platforms:
-  - name: GenericLinux
-   versions:
-   - any
+    - name: GenericLinux
+      versions:
+        - any
   galaxy_tags: []
 
 dependencies: []
